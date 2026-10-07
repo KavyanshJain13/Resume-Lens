@@ -6,6 +6,16 @@ AI-powered resume screening and candidate matching application built with FastAP
 
 [Try ResumeLens](https://resume-lens-labh.onrender.com/)
 
+## Screenshots
+
+### Homepage
+
+![ResumeLens Homepage](images/Home.png)
+
+### Candidate Results
+
+![Candidate Results](images/Working.png)
+
 ## Overview
 
 ResumeLens helps recruiters and hiring teams quickly screen multiple resumes against a job description.
