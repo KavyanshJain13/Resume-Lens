@@ -4,7 +4,7 @@ AI-powered resume screening and candidate matching application built with FastAP
 
 ## Live Demo
 
-[Try ResumeLens](YOUR_RENDER_URL_HERE)
+[Try ResumeLens](https://resume-lens-labh.onrender.com/)
 
 ## Overview
 
@@ -255,8 +255,8 @@ ResumeLens is an AI-assisted screening tool[cite: 1]. Outputs should be treated 
 
 ## Author
 
-**Kavyansh Jain**
-B.Tech Computer Science and Engineering
+**Kavyansh Jain**  
+B.Tech Computer Science and Engineering  
 BIT Mesra
 
 - LinkedIn: www.linkedin.com/in/hello-kavyansh-jain
