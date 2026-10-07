@@ -261,7 +261,7 @@ __pycache__/
 
 ## Disclaimer
 
-ResumeLens is an AI-assisted screening tool[cite: 1]. Outputs should be treated as decision-support insights rather than definitive candidate evaluations[cite: 1]. Final recruitment decisions should always involve human review and comprehensive portfolio assessments[cite: 1].
+ResumeLens is an AI-assisted screening tool. Outputs should be treated as decision-support insights rather than definitive candidate evaluations. Final recruitment decisions should always involve human review and comprehensive portfolio assessments.
 
 ## Author
 
